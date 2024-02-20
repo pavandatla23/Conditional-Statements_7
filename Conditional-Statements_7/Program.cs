@@ -8,6 +8,9 @@ conditional statements after getting input from users
 using System;
 // Ask the user for input
 Console.WriteLine("Please enter a Sales Amount ...");
+Console.WriteLine("***************************");
+
+
 /*
     Use the try catch block to validate user input.
     If the user provides bad input, the catch block
