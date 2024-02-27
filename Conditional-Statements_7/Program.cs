@@ -8,7 +8,7 @@ conditional statements after getting input from users
 using System;
 // Ask the user for input
 Console.WriteLine("Please enter a Sales Amount ...");
-Console.WriteLine("***************************");
+Console.WriteLine("***************************@@@@");
 
 
 /*
